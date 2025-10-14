@@ -1,0 +1,16 @@
+Patron_ID,Name,Email,Phone,Address,Membership_Date,Status
+P001,Alice Johnson,alice.johnson@email.com,555-0101,123 Oak Street,2022-01-15,Active
+P002,Bob Smith,bob.smith@email.com,555-0102,456 Pine Avenue,2021-08-22,Active
+P003,Carol Davis,carol.davis@email.com,555-0103,789 Elm Drive,2023-03-10,Active
+P004,David Wilson,david.wilson@email.com,555-0104,321 Maple Lane,2020-11-05,Active
+P005,Emma Brown,emma.brown@email.com,555-0105,654 Cedar Court,2022-09-18,Suspended
+P006,Frank Miller,frank.miller@email.com,555-0106,987 Birch Road,2021-12-03,Active
+P007,Grace Taylor,grace.taylor@email.com,555-0107,147 Walnut Street,2023-01-28,Active
+P008,Henry Garcia,henry.garcia@email.com,555-0108,258 Hickory Ave,2022-06-14,Active
+P009,Ivy Martinez,ivy.martinez@email.com,555-0109,369 Ash Boulevard,2021-04-07,Active
+P010,Jack Anderson,jack.anderson@email.com,555-0110,741 Poplar Place,2023-05-12,Active
+P011,Kate Thompson,kate.thompson@email.com,555-0111,852 Spruce Way,2020-10-30,Active
+P012,Liam White,liam.white@email.com,555-0112,963 Fir Circle,2022-02-25,Active
+P013,Maya Harris,maya.harris@email.com,555-0113,159 Cherry Lane,2021-07-19,Expired
+P014,Noah Clark,noah.clark@email.com,555-0114,267 Dogwood Drive,2023-04-03,Active
+P015,Olivia Lewis,olivia.lewis@email.com,555-0115,375 Magnolia Street,2022-11-08,Active

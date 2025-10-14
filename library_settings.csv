@@ -1,0 +1,11 @@
+Setting,Value,Description
+Library_Name,CSC 242 University Library,Official name of the library
+Max_Checkout_Period,14,Default checkout period in days
+Max_Renewals,2,Maximum number of renewals allowed
+Late_Fee_Per_Day,0.50,Daily late fee in dollars
+Max_Books_Per_Patron,5,Maximum books a patron can have checked out
+Damage_Fee,15.00,Standard fee for damaged books
+Replacement_Fee,25.00,Fee for lost or severely damaged books
+Student_Discount,0.25,Discount rate for student patrons
+Faculty_Loan_Period,30,Extended loan period for faculty members
+System_Admin,S001,Staff ID of system administrator
