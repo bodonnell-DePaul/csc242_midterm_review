@@ -77,11 +77,11 @@ Your Tkinter application must include:
 - **Entry Fields**: For user input (names, IDs, search terms)
 - **Labels**: For displaying information and instructions
 - **Listbox or Text Widget**: For displaying collections of items
-- **Menu or Additional Windows**: For advanced functionality
+- **(Optional) Menu or Additional Windows**: For advanced functionality
 
 #### Required Functionality:
 1. **Add New Items** (books or patrons)
-2. **Search/Display Items** 
+2. **Display Items** 
 3. **Perform Transactions** (check out/in books)
 4. **File Operations** (save/load data)
 
@@ -96,10 +96,6 @@ Your Tkinter application must include:
 ## Scope Demonstration Requirements
 
 Your application must clearly demonstrate different variable scopes:
-
-### Global Scope
-- Use at least one global variable appropriately
-- Document why global scope is necessary for your chosen variable
 
 ### Instance Scope  
 - Use instance variables in your classes
